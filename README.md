@@ -47,7 +47,7 @@ chmod +x launch.sh
 عندك استفسار او اي شي راسلني
 @
 واذا محظور تعال على بوت التواصل
-@ll60Kllbot
+@
 قـنـاة الـسـورس
 @
 
@@ -72,7 +72,7 @@ redis-server
 وفتح ترمنال ثاني وخلي  
 ```sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/mero97/TH3_II303III.git && cd TH3BOSS && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/mero97/TH3_II303III.git && cd THE_II303III && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
